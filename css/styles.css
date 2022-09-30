@@ -78,12 +78,15 @@ img {
     margin: -1px;
 }
 
+.hero {
+    border-bottom: 1px solid #ECECEC;
+}
+
 /* Nav-page */
 
 .page-head {
     display: flex;
-    align-items: center;
-    border-bottom: 1px solid #ECECEC;  
+    align-items: center;   
  }
 
 .main-nav {
