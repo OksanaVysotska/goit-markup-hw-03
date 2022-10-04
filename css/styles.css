@@ -288,15 +288,8 @@ img {
     background-color: var(--secondary-background-color);
     padding-top: 94px;
     padding-bottom: 94px;
-    background-color: red;
  }
-
- /* .our-team {
-    padding-top: 94px;
-    padding-bottom: 50px;
-    margin-bottom: 0;
- } */
-
+ 
 .experts {
     display: flex;
     flex-wrap: wrap;  
